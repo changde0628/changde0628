@@ -11,8 +11,8 @@
 | 專案名稱        | 內容                             | 使用語言 |
 |:--------------- |:-------------------------------- |:-------- |
 | PVZ-Solar2D     | 實作植物大戰殭屍，角色為我們同學們 | Lua      |
-| 升學助手LineBot | 聊天機器人(含NLP處理)            | Python   |
-| 人聲合成樂音    | 錄製人聲並輸入簡譜產生音樂       | C++      |
+| College Assistant LineBot | 聊天機器人(含NLP處理)            | Python   |
+| Vocal Synthetic Tone     | 錄製人聲並輸入簡譜產生音樂       | C++      |
 
 # Introduce myself
 - 👨‍🎓 I am a student from Taiwan who is studying at university 
@@ -26,5 +26,5 @@
 | 專案名稱        | 內容                                                              | 使用語言 |
 |:--------------- |:----------------------------------------------------------------- |:-------- |
 | PVZ-Solar2D     | Plants vs. Zombies character are my classmate                     | Lua      |
-| 升學助手LineBot | Chatbot (With NLP processing)                                     | Python   |
-| 人聲合成樂音    | Record audio and input numbered musical notation to produce music | C++      |
+| College Assistant LineBot | Chatbot (With NLP processing)                                     | Python   |
+| Vocal Synthetic Tone    | Record audio and input numbered musical notation to produce music | C++      |
