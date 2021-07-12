@@ -23,7 +23,7 @@
 - 👋 If you are looking for a partner to work hard together
     -  Mail Me : changde0628@gmail.com
 
-| 專案名稱        | 內容                                                              | 使用語言 |
+| Project name         | Content                                                               | Programming language  |
 |:--------------- |:----------------------------------------------------------------- |:-------- |
 | PVZ-Solar2D     | Plants vs. Zombies character are my classmate                     | Lua      |
 | College Assistant LineBot | Chatbot (With NLP processing)                                     | Python   |
