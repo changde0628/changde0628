@@ -4,8 +4,6 @@
 - 🎮 專長的領域為 演算法、競賽程式設計、2D遊戲開發
 - 🤖 正在學習 人工智慧 ML、DL、RL、Gan
 - 🌱 近期開發專案 利用Reinforcement learning訓練特定遊戲AI
-- 👋 如果你正在尋找一起努力的夥伴 Mail Me : changde0628@gmail.com
-
 
 
 | 專案名稱        | 內容                             | 使用語言 |
@@ -20,8 +18,6 @@
 - 🎮 Expertise in algorithm, competition programming, 2D game development 
 - 🤖 I’m currently learning Artificial intelligence (ML、DL、RL、Gan)
 - 🌱 Recent development projects : To use reinforcement learning to train specific game AI 
-- 👋 If you are looking for a partner to work hard together
-    -  Mail Me : changde0628@gmail.com
 
 | Project name         | Content                                                               | Programming language  |
 |:--------------- |:----------------------------------------------------------------- |:-------- |
